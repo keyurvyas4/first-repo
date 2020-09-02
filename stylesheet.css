@@ -1,0 +1,37 @@
+.header{
+    margin:auto;
+}
+.header > h1 {
+    color: red;
+    background-color: black;
+    font-size: 40px;
+    text-align: center;
+    width: 50%;
+    text-decoration: underline;
+    margin: auto;
+    cursor: pointer;
+}
+.body > h1 {
+    color: red;
+    background-color: black;
+    font-size: 40px;
+    text-align: center;
+    width: 50%;
+    text-decoration: underline;
+    margin: auto;
+    cursor: pointer;
+}
+h1:hover{
+    background-color: white;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    background-color: black;
+    cursor: text;
+}
+body {
+    background-color:   black;
+    cursor: grab;
+}
